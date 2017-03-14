@@ -7,7 +7,7 @@ This repo is a quick one-stop reference for information on the mltshp project.
 * [Facebook group](https://www.facebook.com/groups/1833082553635028)
 * [MLKSHK Update SHK](http://mlkshk.com/weloveamberandandre)
 * [Twitter List](https://twitter.com/travis/lists/mlkshk/members)
-* [MLTSHP GitHub](https://github.com/MaltShop)
+* [MLTSHP GitHub](https://github.com/MLTSHP)
 
 ## Information Gathering
 * [MLKSHK User Survey](https://www.wolframcloud.com/objects/7a6e9fc8-68d5-45b4-8ff1-affde7d3d487)
