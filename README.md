@@ -9,6 +9,7 @@ This repo is a quick one-stop reference for information on the mltshp project.
 * [MLKSHK Update SHK](http://mlkshk.com/weloveamberandandre)
 * [Twitter List](https://twitter.com/travis/lists/mlkshk/members)
 * [MLTSHP GitHub](https://github.com/MLTSHP)
+* [FAQ](https://github.com/MLTSHP/mltshp_migration/wiki/FAQ)
 
 ## Information Gathering
 * [MLKSHK User Survey](https://www.wolframcloud.com/objects/7a6e9fc8-68d5-45b4-8ff1-affde7d3d487)
@@ -16,6 +17,6 @@ This repo is a quick one-stop reference for information on the mltshp project.
 
 ## Documents
 * [Technology Team Charter](https://docs.google.com/document/d/1-EXtX8mYA_xs9iLlDIbgu54zcYQMwYb4QCCOENUpD00/edit)
-* [MLTSHP Feature Requests](https://docs.google.com/spreadsheets/d/1S3ZMchUrLD9DgUCjsTwMdLQ4EHyRdTRKCQt1WKT88CQ/edit)
+* [MLTSHP Feature Requests](https://github.com/MLTSHP/mltshp_migration/issues)
 * [Altername MLTSHP Name Meanings](https://docs.google.com/spreadsheets/d/1KmaA5D9sQOl3g4-Kc-aKjA5l52R0U7Dfd7m58jmm0os/edit#gid=0)
 
