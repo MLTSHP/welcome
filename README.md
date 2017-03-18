@@ -22,4 +22,4 @@ This repo is a quick one-stop reference for information on the mltshp project.
 * [Technology Team Charter](https://docs.google.com/document/d/1-EXtX8mYA_xs9iLlDIbgu54zcYQMwYb4QCCOENUpD00/edit)
 * [MLTSHP Feature Requests](https://github.com/MLTSHP/mltshp_migration/issues)
 * [Altername MLTSHP Name Meanings](https://docs.google.com/spreadsheets/d/1KmaA5D9sQOl3g4-Kc-aKjA5l52R0U7Dfd7m58jmm0os/edit#gid=0)
-
+* [Meeting notes](https://github.com/MLTSHP/meeting_notes/wiki)
