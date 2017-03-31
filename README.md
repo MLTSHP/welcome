@@ -19,6 +19,7 @@ This repo is a quick one-stop reference for information on the mltshp project.
 * [Governance Questions](https://docs.google.com/document/d/1DBWt_hIp8xgY9BOwXLYsx4x-R-gscVhW0CmNTa43L2I/edit)
 
 ## Documents
+* [Code of Conduct](https://docs.google.com/document/d/13G_Yu3KK3DHsHicZ08wgMepsn54f2p0juj38UK-PTrk/edit)
 * [Technology Team Charter](https://docs.google.com/document/d/1-EXtX8mYA_xs9iLlDIbgu54zcYQMwYb4QCCOENUpD00/edit)
 * [MLTSHP Feature Requests](https://github.com/MLTSHP/mltshp_migration/issues)
 * [Altername MLTSHP Name Meanings](https://docs.google.com/spreadsheets/d/1KmaA5D9sQOl3g4-Kc-aKjA5l52R0U7Dfd7m58jmm0os/edit#gid=0)
