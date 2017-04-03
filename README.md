@@ -7,7 +7,7 @@ This repo is a quick one-stop reference for information on the mltshp project.
 [The FAQ](https://github.com/MLTSHP/mltshp_migration/wiki/FAQ)
 
 ## Community
-* [MLKSHK-v2 Slack](https://mlkshk-v2.slack.com)
+* [MLTSHP Slack](https://mltshp.slack.com)
 * [Sign yourself up for Slack](https://mlkshk-v2.signup.team/)
 * [Facebook group](https://www.facebook.com/groups/1833082553635028)
 * [MLKSHK Update SHK](http://mlkshk.com/weloveamberandandre)
