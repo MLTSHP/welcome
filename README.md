@@ -8,7 +8,6 @@ This repo is a quick one-stop reference for information on the mltshp project.
 
 ## Community
 * [MLTSHP Slack](https://mltshp.slack.com)
-* [Sign yourself up for Slack](https://mlkshk-v2.signup.team/)
 * [Facebook group](https://www.facebook.com/groups/1833082553635028)
 * [MLKSHK Update SHK](http://mlkshk.com/weloveamberandandre)
 * [Twitter List](https://twitter.com/travis/lists/mlkshk/members)
